@@ -32,15 +32,6 @@ The columns include:
 - `Price`: Price per unit.
 - `Region`: Region associated with the transaction.
 
-## Project Structure
-
-```text
-Sales_Data_Analysis/
-├── sales_data.csv
-├── sales_analysis.ipynb
-└── README.md
-```
-
 ## Key Findings
 
 - **Total revenue:** ₹550,000 across 8 transactions.
